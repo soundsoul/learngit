@@ -4,3 +4,4 @@
 3）已经commit的文件回退，参考版本回退，git reset --hard HEAD^直接将上一个版本的代码退回到暂存区和工作区。ps：此处不用再做2）和1）中的操作，因此需特别小心！
 ps：有没有可能只回退某个文件而非整个版本？
 adding a new branch
+add another line
