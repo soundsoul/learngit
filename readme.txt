@@ -11,3 +11,4 @@ create a new branch is quick & simple
 create a new branch is quick and simple
 >>>>>>> feature1
 add one line more
+add for no-ff test
