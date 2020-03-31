@@ -5,4 +5,8 @@
 ps：有没有可能只回退某个文件而非整个版本？
 adding a new branch
 just here
+<<<<<<< HEAD
 create a new branch is quick & simple
+=======
+create a new branch is quick and simple
+>>>>>>> feature1
