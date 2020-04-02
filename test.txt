@@ -1,1 +1,2 @@
 added in dev branch
+what to do after stash and bug branch created from master
