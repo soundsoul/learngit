@@ -8,3 +8,4 @@ create a new branch is quick and simple
 add one line more
 add for no-ff test
 test for dev push
+add stashed line in bug branch based on master branch
